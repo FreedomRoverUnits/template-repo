@@ -40,10 +40,10 @@ Contributors names and contact info
 Jordy A. Larrea Rodriguez  
 [@CasuallyAlive](https://github.com/CasuallyAlive)
 
-Cody Argyle
+Brittney Morales
 [@charming21](https://github.com/charming21)
 
-Nicole Sundberg
+Misael Nava
 [@Misael812](https://github.com/Misael812)
 
 ## Version History
