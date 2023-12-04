@@ -37,14 +37,11 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Jordy A. Larrea Rodriguez  
-[@CasuallyAlive](https://github.com/CasuallyAlive)
+Jordy A. Larrea Rodriguez [@CasuallyAlive](https://github.com/CasuallyAlive)
 
-Brittney Morales
-[@charming21](https://github.com/charming21)
+Brittney Morales [@charming21](https://github.com/charming21)
 
-Misael Nava
-[@Misael812](https://github.com/Misael812)
+Misael Nava [@Misael812](https://github.com/Misael812)
 
 ## Version History
 
